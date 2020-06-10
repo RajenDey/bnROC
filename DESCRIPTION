@@ -1,0 +1,12 @@
+Package: bnROC
+Title: bnROC Function
+Version: 0.0.0.9000
+Authors@R: 
+    person("Zhen", "Chen", email="chenzhe@mail.nih.gov", role=c("aut", "cre"))
+    person("Rajen", "Dey", email="rajen.dey@berkeley.edu", role=c("aut", "cre"))
+Description: Implementation of the binormal model for ROC curves. 
+License: 
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0
